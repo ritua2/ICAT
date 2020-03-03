@@ -8,6 +8,7 @@ We are grateful to NSF for award # 1642396 that has enabled in refining ICAT.
 
 
 Requirements:
+
 (1) Intel Vtune profiler
 
 (2) Perf
