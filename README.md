@@ -12,3 +12,9 @@ Requirements:
 (1) Intel Vtune profiler
 
 (2) Perf
+
+(3) C++ compiler
+
+(4) Bash script
+
+
