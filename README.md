@@ -1,5 +1,5 @@
 # Interactive Code Adaptation Tool (ICAT)
-Following people contributed int he development of ICAT: Tiffany Connors, Ritu Arora, Lars Koesterke
+Following people contributed in the development of ICAT: Tiffany Connors, Ritu Arora, Lars Koesterke
 
 License: The code for this project is released under the new BSD license.
 
