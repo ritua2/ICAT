@@ -34,9 +34,9 @@ mv /icat/src .
 rm -r icat
 ```
 
-- Please make sure you complete the steps mentioned at [file]()
+- Please make sure you complete the steps mentioned at [file](https://github.com/ritua2/ICAT/blob/master/README.txt)
 	- The sample .icatrc file is available on the repo, please copy it to your @home directory and updated the paths inside it accordingly.
-	- Make sure the other two paths mentioned in [file]() are updated
+	- Make sure the other two paths mentioned in [file](https://github.com/ritua2/ICAT/blob/master/README.txt) are updated
 	
 
 - Following steps are to run a sample available in this repository, please feel free to use other code but ensure that the paths have been updated accordingly
